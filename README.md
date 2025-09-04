@@ -6,3 +6,5 @@ Testando o protocolo git no github.
 - Fernando Leonid
 - UniFECAF
 - São Roque
+- Osasco
+
